@@ -35,7 +35,7 @@ function showSlider(){
 }
 function showSidebar(){
   let sideBar = document.querySelector('.header .header-2 .logo .menu-list');
-  sideBar.style.visibility = 'visible'
+  sideBar.style.visibility = 'visible';
 }
 function hideSidebar(){
   let hideSidebar = document.querySelector('.header .header-2 .logo .menu-list');
