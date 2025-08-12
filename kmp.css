@@ -1556,12 +1556,12 @@ animation: showContent .5s .7s ease-in-out 1 forwards;
   .services {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    width: 90%;
-    padding: 10px;
+    width: 100%;
+    padding: 20px;
   }
   .service-box {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     padding: 10px;
     gap: 0px;
     margin-top: 10px;
